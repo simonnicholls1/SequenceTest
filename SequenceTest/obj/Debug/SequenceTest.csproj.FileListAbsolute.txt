@@ -1,0 +1,6 @@
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\SequenceTest\SequenceTest\bin\Debug\SequenceTest.exe.config
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\SequenceTest\SequenceTest\bin\Debug\SequenceTest.exe
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\SequenceTest\SequenceTest\bin\Debug\SequenceTest.pdb
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\SequenceTest\SequenceTest\obj\Debug\SequenceTest.csprojResolveAssemblyReference.cache
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\SequenceTest\SequenceTest\obj\Debug\SequenceTest.exe
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\SequenceTest\SequenceTest\obj\Debug\SequenceTest.pdb
